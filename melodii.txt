@@ -1,0 +1,10 @@
+1,Poem Nou,Irina Rimes,pop
+2,Dragostea nu se stinge,Andra,pop
+3,Photograph,Ed Sheeran,pop
+4,Fly me to the moon,Frank Sinatra,folk
+5,Shape of you,Ed Sheeran,pop
+6,Despacito,Luis Fonsi,pop
+7,Kamihitoe,Uru,folk
+8,Aproape de voi,Cargo,rock
+9,La multi ani,Andra,disco
+10,Perfect,Ed Sheeran,pop
